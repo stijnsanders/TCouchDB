@@ -1,0 +1,4 @@
+# CouchDB.pas
+
+attachment: /db/id/filename Content-Type
+replication?
